@@ -15,6 +15,8 @@ Depending on the computer's performance, the speed can be increased at least 30 
 Since most proxy ip sellers have restrictions on the frequency of extracting ip, 
 I use block queue to realize multithreading communication.
 
+# multithreading-crawler-douban
+
 The script: use the above frame to crawl film date from Douban, one of the biggest film websites in China.
 
 I have bought 20000 for the proxy ip account, you just need to put data.json, special...
