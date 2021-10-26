@@ -6,9 +6,6 @@ Created on Thu Oct 21 21:58:53 2021
 @author: yiyang
 """
 
-'''
-
-'''
 
 class crawler():
     def __init__(self,proxy_ip_url,current_range,target_url,ua_pool_path,save_data,path,save_special_cases_path):
