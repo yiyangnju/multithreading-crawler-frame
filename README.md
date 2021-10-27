@@ -2,7 +2,7 @@
 
 We need data .However, sometimes we cannot find ..or existing data does not satisfy your need. For example, we I prepare the data for the final project of 5702 and 5293 this semester, I plan to analyze chinese film data. However, I cannot find ... data from the internet. Therefore, I want write a crawler script to crawl the data from internet directly. 
 
-The script: , provides a general frame to crawl data from websites.
+The script provides a general frame to crawl data from websites.
 
 It's provides three ways to handle the anti-crawler mechanism.
 First, it uses fake user agent information. 
@@ -17,7 +17,9 @@ I use block queue to realize multithreading communication.
 
 # multithreading-crawler-douban
 
-The script: use the above frame to crawl film date from Douban, one of the biggest film websites in China.
+The script uses the above frame to crawl film data from Douban, one of the biggest film websites in China.
 
-I have bought 20000 for the proxy ip account, you just need to put data.json, special...
+I have bought 10000 proxy ip in the account, so you can test the efficieny on your own computer. Since the ips are valid for one month, so you can do that before 2021/11/27. If you want to test after 2021/11/27 or any other questions, please contact me and I will refill the account.
 
+
+pip install urllib3==1.25.11
