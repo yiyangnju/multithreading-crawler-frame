@@ -32,7 +32,7 @@ I have spent more than 30 hours to finish this script, and I have crwaled nearly
 
 # further improvements 
 
-There are still some further improvements can be made in the future.
+There are some further improvements can be made in the future.
 
 First, I can add more measures to handle some more complicated anti-crawler mechanisms. 
 
